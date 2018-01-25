@@ -9,24 +9,24 @@ This includes features like :
 - Display uptime of your server
 - **Easter Egg** : Display a counter as *LOST* if the date has been exceeded
 
-#Prerequisites
+# Prerequisites
 
 Make sure you have installed a PHP environment on your server to display the uptime.
 
-#Setting
+# Setting
 
 To select the type of counter to display, you must change the values in the following file :
 - js/`script.js`
 
-#Screenshots
+# Screenshots
 
-###Sample Counter
+### Sample Counter
 ![Image](https://raw.githubusercontent.com/MrDoomy/Chrono/master/dev/screenshots/counter.png)
 
-###Sample Clock
+### Sample Clock
 ![Image](https://raw.githubusercontent.com/MrDoomy/Chrono/master/dev/screenshots/clock.png)
 
-#License
+# License
 
     Copyright (C) 2016 Mr Doomy
 
