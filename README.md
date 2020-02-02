@@ -29,7 +29,7 @@ To select the type of counter to display, you must change the values in the foll
 # License
 
 ```
-Copyright (C) 2016 Mr Doomy
+Copyright (C) 2016 Damien Chazoule
 
 This program is free software : you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
