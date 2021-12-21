@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/MrDoomy/Chrono/master/dev/images/chrono.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/Chrono/master/dev/images/chrono.png)
 
 This is a project that use the magnificent Google I/O 2016 clock as a countdown, a counter or to show current time.
 
@@ -21,10 +21,10 @@ To select the type of counter to display, you must change the values in the foll
 # Screenshots
 
 ### Sample Counter
-![Image](https://raw.githubusercontent.com/MrDoomy/Chrono/master/dev/screenshots/counter.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/Chrono/master/dev/screenshots/counter.png)
 
 ### Sample Clock
-![Image](https://raw.githubusercontent.com/MrDoomy/Chrono/master/dev/screenshots/clock.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/Chrono/master/dev/screenshots/clock.png)
 
 # License
 
